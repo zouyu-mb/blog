@@ -23,7 +23,7 @@
 1. Gitpod 云IDE, 代码管理好, 做好自己的常用库 | 3盘 NAS 
 2. 使用虚拟机, 以后换环境迁移虚拟机文件 | 备份 .env 环境
 3. keepass (开源自建服务)  | lastpass(免费) | 1password(收费)
-4. 3盘 NAS  |  notion.so  | 经常整理自己的TAG 分层
+4. 3盘 NAS, raid5备份, 硬盘10年坏了替换1块就行  |  notion.so  | 经常整理自己的TAG 分层
 5. Gastby 提交md文章到git, 自动生成blog
 6. 日记app | 用纸写下来锁起来 | 选很漂亮的软件,主要解压 | Moo日记, Dayone, lifeograph(开源)
 7. 纪念日, 里程碑日 | 手机自带用好
